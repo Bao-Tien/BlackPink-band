@@ -8,6 +8,12 @@
     #nav .subnav li a {
         padding: 5px 12px;
     }
+    #footer .socials-list {
+        font-size: 42px;
+    }
+    #footer .socials-list a {
+        margin: 0 8px;
+    }
 }
 
 /* Tablet & Mobile */
@@ -22,12 +28,7 @@
         padding: 14px;
         font-size: 16px;
     }
-    #footer .socials-list {
-        font-size: 48px;
-    }
-    #footer .socials-list a {
-        margin: 0 8px;
-    }
+    
     #footer .power-link {
         padding: 12px 0;
         display: inline-block;
@@ -90,5 +91,12 @@
     }
     .contact-form {
         margin-top: 16px;
+    }
+
+    #footer .socials-list {
+        font-size: 30px;
+    }
+    #footer .socials-list a {
+        margin: 0 8px;
     }
 }
